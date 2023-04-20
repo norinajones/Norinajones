@@ -1,2 +1,6 @@
-body {background-color: aquamarine;}
-font {color:aliceblue}
+body {
+    background-color: aquamarine;
+color:aliceblue
+padding: 30px
+}
+
